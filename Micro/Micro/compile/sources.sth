@@ -1,0 +1,22 @@
+[Files List]
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\STD/src/standard.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/arith.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/numstd.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.2\VLIB\IEEE/src/unsigned.vhd=S
+c:\My_Designs\Micro\Micro/src/ALU64.vhd=S
+c:\My_Designs\Micro\Micro/src/mux64b.vhd=S
+c:\My_Designs\Micro\Micro/src/extSigno64b.vhd=S
+c:\My_Designs\Micro\Micro/src/regMux.vhd=S
+c:\My_Designs\Micro\Micro/src/regFile.vhd=S
+c:\My_Designs\Micro\Micro/src/control.vhd=S
+c:\My_Designs\Micro\Micro/src/memInst.vhd=S
+c:\My_Designs\Micro\Micro/src/branch.vhd=S
+c:\My_Designs\Micro\Micro/src/ext26bits.vhd=S
+c:\My_Designs\Micro\Micro/src/suma.vhd=S
+c:\My_Designs\Micro\Micro/src/Add4.vhd=S
+c:\My_Designs\Micro\Micro/src/extcorr2bits.vhd=S
+c:\My_Designs\Micro\Micro/src/extSignoI64b.vhd=S
+c:\My_Designs\Micro\Micro/src/memdata.vhd=S
+c:\My_Designs\Micro\Micro/src/PC.vhd=S
+c:\My_Designs\Micro\Micro/compile/Procesador.vhd=S

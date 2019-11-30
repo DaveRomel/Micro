@@ -1,0 +1,16 @@
+.\src\Procesador.bde
+.\src\PC.vhd
+.\src\Add4.vhd
+.\src\memInst.vhd
+.\src\control.vhd
+.\src\regFile.vhd
+.\src\regMux.vhd
+.\src\extSigno64b.vhd
+.\src\mux64b.vhd
+.\src\ALU64.vhd
+.\src\memdata.vhd
+.\src\extSignoI64b.vhd
+.\src\extcorr2bits.vhd
+.\src\suma.vhd
+.\src\ext26bits.vhd
+.\src\branch.vhd

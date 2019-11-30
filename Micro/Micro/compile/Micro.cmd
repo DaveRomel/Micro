@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\Micro\library.cfg"  -j "c:\My_Designs\Micro\Micro\projlib.cfg"  -d "c:\My_Designs\Micro\Micro\compile\"  -work Micro -dbg -e 100 "c:\My_Designs\Micro\Micro\compile\Procesador.vhd" 
