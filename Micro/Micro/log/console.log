@@ -1,0 +1,203 @@
+asim -advdataflow  -retry 3  procesador procesador
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2089 kB (elbread=1071 elab2=870 kernel=148 sdf=0)
+# 04:25 a. m., sábado, 30 de noviembre de 2019
+# Simulation has been initialized
+# Selected Top-Level: procesador (procesador)
+run 100 ns
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U2.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U20.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 1,  Instance: /U20.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+endsim
+# Simulation has been stopped
+acom $DSN/src/memInst.vhd
+# Compile...
+# File: c:\My_Designs\Micro\Micro\src\memInst.vhd
+# Compile Entity "memInst"
+# Entity `memInst' has been skipped - no difference detected.
+# Compile Architecture "memInst" of Entity "memInst"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/Procesador.bde
+# Compile...
+# DRC: Checking file 'c:\My_Designs\Micro\Micro\src\Procesador.bde'.
+# DRC: Procesador.bde - 0 error(s), 0 warning(s)
+# DRC: The results have been written to the log file. Double click on this line to view the log.
+# Generating c:\My_Designs\Micro\Micro\compile\Procesador.vhd from c:\My_Designs\Micro\Micro\src\Procesador.bde ...
+# Generation successful
+# File: .\Procesador.vhd
+# Compile Entity "Procesador"
+# Entity `Procesador' has been skipped - no difference detected.
+# Compile Architecture "Procesador" of Entity "Procesador"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+asim -advdataflow  -retry 3  procesador procesador
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2089 kB (elbread=1071 elab2=870 kernel=148 sdf=0)
+# 04:39 a. m., sábado, 30 de noviembre de 2019
+# Simulation has been initialized
+# Selected Top-Level: procesador (procesador)
+run 100 ns
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U10.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U2.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U20.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U3.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 0,  Instance: /U5.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 0,  Instance: /U9.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# : Time: 0 ps,  Iteration: 1,  Instance: /U5.
+# : WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# : Time: 0 ps,  Iteration: 1,  Instance: /U20.
+# KERNEL: stopped at time: 100 ns
+endsim
+# Simulation has been stopped

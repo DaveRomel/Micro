@@ -1,0 +1,75 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Micro
+
+[Library]
+Micro=.\Micro.lib
+
+[$LibMap$]
+Micro=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=procesador|procesador|0         
+ShowHide=ShowTopLevel
+Selected=
+
+[Files.Data]
+.\src\Procesador.bde=Block Diagram
+.\src\PC.vhd=VHDL Source Code
+.\src\Add4.vhd=VHDL Source Code
+.\src\memInst.vhd=VHDL Source Code
+.\src\control.vhd=VHDL Source Code
+.\src\regFile.vhd=VHDL Source Code
+.\src\regMux.vhd=VHDL Source Code
+.\src\extSigno64b.vhd=VHDL Source Code
+.\src\mux64b.vhd=VHDL Source Code
+.\src\ALU64.vhd=VHDL Source Code
+.\src\memdata.vhd=VHDL Source Code
+.\src\extSignoI64b.vhd=VHDL Source Code
+.\src\extcorr2bits.vhd=VHDL Source Code
+.\src\suma.vhd=VHDL Source Code
+.\src\ext26bits.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+.\src\branch.vhd=VHDL Source Code
+.\compile\Procesador.vhd=VHDL Source Code
+
+
+[Files]
+/Procesador.bde=-1
+/PC.vhd=-1
+/Add4.vhd=-1
+/memInst.vhd=-1
+/control.vhd=-1
+/regFile.vhd=-1
+/regMux.vhd=-1
+/extSigno64b.vhd=-1
+/mux64b.vhd=-1
+/ALU64.vhd=-1
+/memdata.vhd=-1
+/extSignoI64b.vhd=-1
+/extcorr2bits.vhd=-1
+/suma.vhd=-1
+/ext26bits.vhd=-1
+/branch.vhd=-1
+/Waveform Editor 1.awf=-1
+
+[file_out:/Procesador.bde]
+/\compile\Procesador.vhd=-1

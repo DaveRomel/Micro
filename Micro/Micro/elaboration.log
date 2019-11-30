@@ -1,0 +1,33 @@
+elbread.dll ver. 1.0.5.325 Sat Nov 30 04:39:32 2019
+
+
+--------------------------------------
+Entity        | Architecture | Library
+--------------------------------------
+procesador    | procesador   | Micro
+pc            | pc           | micro
+memdata       | memdata      | micro
+mux64b        | mux64b       | micro
+extsignoi64b  | extsignoi64b | micro
+extcorr2bits  | extcorr2bits | micro
+regmux        | regmux       | micro
+add4          | add4         | micro
+suma          | suma         | micro
+ext26bits     | ext26bits    | micro
+branch        | branch       | micro
+meminst       | meminst      | micro
+control       | control      | micro
+regfile       | regfile      | micro
+extsigno64b   | extsigno64b  | micro
+alu64         | alu64        | micro
+--------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+numeric_std         | ieee
+std_logic_unsigned  | ieee
+-----------------------------
